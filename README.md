@@ -8,18 +8,22 @@ A customizable React Native 3D card/credit-card component 💳
 
 <img src ="https://i.imgur.com/WeC96F6.gif" width="40%"/>
 
+## Dependencies
+
+This lib uses react-native-linear-gradient, so it is needed for this lib to work.
+
 ## Instalation
 
 To install just input the following command:
 
 ```bash
-npm i react-native-3d-card
+npm i react-native-3d-card react-native-linear-gradient
 ```
 
 or
 
 ```bash
-yarn add react-native-3d-card
+yarn add react-native-3d-card react-native-linear-gradient
 ```
 
 ## Props
