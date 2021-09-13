@@ -6,7 +6,7 @@
 
 A customizable React Native 3D card/credit-card component 💳
 
-<img src ="https://i.imgur.com/WeC96F6.gif" width="40%"/>
+<img src ="https://i.imgur.com/pSiMuUd.gif" width="40%"/>
 
 ## Dependencies
 
