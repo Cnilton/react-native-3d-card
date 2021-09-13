@@ -140,7 +140,6 @@ const App: React.ForwardRefRenderFunction<CardRef, Props> = (
 
     return array.map((_, index) => {
       if (numberValue?.replace(/ /g, '')?.length <= index) {
-        console.log(index, (index - (dividerNumber - 1)) % dividerNumber);
         return (
           <View
             key={`placeholder-${String(index)}`}
@@ -156,8 +155,6 @@ const App: React.ForwardRefRenderFunction<CardRef, Props> = (
             ]}
           />
         );
-      } else {
-        return <></>;
       }
     });
   };
