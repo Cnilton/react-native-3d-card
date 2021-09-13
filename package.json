@@ -1,6 +1,6 @@
 {
   "name": "react-native-3d-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable React Native 3D card/credit-card component.",
   "author": "Caio Nilton <cnilton>",
   "main": "index.js",
@@ -38,9 +38,7 @@
   "homepage": "https://github.com/Cnilton/react-native-3d-card#readme",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
-  },
-  "dependencies": {
+    "react-native": "*",
     "react-native-linear-gradient": "^2.5.6"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 import React, {FunctionComponent, useRef, useState} from 'react';
 import {TouchableOpacity, ScrollView, Text, TextInput} from 'react-native';
-import CreditCard3D from 'react-native-3d-card';
+import {CreditCard3D} from 'react-native-3d-card';
 
 const Example: FunctionComponent = () => {
   const [name, setName] = useState('');
